@@ -2,6 +2,28 @@
 
 A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experience developing web applications using a variety of tools that include but not limited to
 
+## Skills
+
+<!--
+- React
+- Next.js
+- TypeScript
+- AWS
+- Redux
+- Jest
+- Storybook
+- Cypress
+- GIT
+- ESLint
+- Prettier
+- MUI
+- Tailwind
+- SCSS
+- MongoDB
+- Socket.io
+-->
+
+
 <!--
 **mrkelder/mrkelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
