@@ -4,28 +4,27 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
 
 ## Skills
 
-<!--
-- React
-- Next.js
-- TypeScript
-- AWS
-- Redux
-- Node.js
-- Jest
-- Storybook
-- Cypress
-- GIT
-- JavaScript
-- ESLint
-- Prettier
-- MUI
-- Tailwind
-- SCSS
-- MongoDB
-- Socket.io
-- Linux
--->
-
+<span>
+  <img src="/images/react.svg" width="48" title="React" alt="React" />
+  <img src="/images/next.svg" width="48" title="Next.js" alt="Next.js" />
+  <img src="/images/ts.svg" width="48" title="TypeScript" alt="TypeScript" />
+  <img src="/images/aws.svg" width="48" title="Amazon Web Services" alt="Amazon Web Services" />
+  <img src="/images/redux.svg" width="48" title="Redux" alt="Redux" />
+  <img src="/images/node.svg" width="48" title="Node.js" alt="Node.js" />
+  <img src="/images/jest.svg" width="48" title="Jest" alt="Jest" />
+  <img src="/images/storybook.svg" width="48" title="Storybook" alt="Storybook" />
+  <img src="/images/cypress.svg" width="48" title="Cypress" alt="Cypress" />
+  <img src="/images/git.svg" width="48" title="Git" alt="Git" />
+  <img src="/images/js.svg" width="48" title="JavaScript" alt="JavaScript" />
+  <img src="/images/eslint.svg" width="48" title="ESLint" alt="ESLint" />
+  <img src="/images/prettier.svg" width="48" title="Prettier" alt="Prettier" />
+  <img src="/images/mui.svg" width="48" title="Material UI" alt="Material UI" />
+  <img src="/images/tailwind.svg" width="48" title="Tailwind" alt="Tailwind" />
+  <img src="/images/sass.svg" width="48" title="SASS" alt="SASS" />
+  <img src="/images/mongodb.svg" width="48" title="MongoDB" alt="MongoDB" />
+  <img src="/images/socket.svg" width="48" title="Socket.io" alt="Socket.io" />
+  <img src="/images/linux.svg" width="48" title="Linux" alt="Linux" />
+</span>
 
 <!--
 **mrkelder/mrkelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
