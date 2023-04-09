@@ -10,10 +10,12 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
 - TypeScript
 - AWS
 - Redux
+- Node.js
 - Jest
 - Storybook
 - Cypress
 - GIT
+- JavaScript
 - ESLint
 - Prettier
 - MUI
@@ -21,6 +23,7 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
 - SCSS
 - MongoDB
 - Socket.io
+- Linux
 -->
 
 
