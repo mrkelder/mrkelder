@@ -26,6 +26,11 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
   <img src="/images/linux.png" width="48" title="Linux" alt="Linux" />
 </span>
 
+## 🔴 What I'm doing right now
+
+- Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin
+- Learning/Refining: [AWS Course](https://www.udemy.com/share/106WtA3@Skmkv2qqQB7Td08UHfEnwCH0LqMaw6jiV2EPngMjHBs7DP3IsA_3te0HjzPaCyFJFQ==/) by Stephane Maarek
+
 <!--
 **mrkelder/mrkelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
