@@ -2,7 +2,7 @@
 
 A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experience developing web applications using a variety of tools that include but not limited to
 
-## Skills
+## 💻 Skills
 
 <span>
   <img src="/images/react.png" width="48" title="React" alt="React" />
