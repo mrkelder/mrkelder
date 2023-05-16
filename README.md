@@ -28,7 +28,7 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
 
 ## 🔴 What I'm doing right now
 
-- Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin
+<!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
 - Learning/Refining: [AWS Course](https://www.udemy.com/share/106WtA3@Skmkv2qqQB7Td08UHfEnwCH0LqMaw6jiV2EPngMjHBs7DP3IsA_3te0HjzPaCyFJFQ==/) by Stephane Maarek
 - Working on: [Posts Board](https://github.com/mrkelder/posts-board) Pet Project (practicing AWS)
 
