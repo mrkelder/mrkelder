@@ -2,7 +2,7 @@
 
 A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experience developing web applications using a variety of tools that include but not limited to
 
-## Skills
+## 💻 Skills
 
 <span>
   <img src="/images/react.png" width="48" title="React" alt="React" />
@@ -27,17 +27,8 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
   <img src="/images/webpack.png" width="48" title="Webpack" alt="Webpack" />
 </span>
 
-<!--
-**mrkelder/mrkelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔴 What I'm doing right now
+<!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
+- **Looking for a software developer position in Ontario, Canada**
+- Learning/Refining: [AWS Course](https://www.udemy.com/share/106WtA3@Skmkv2qqQB7Td08UHfEnwCH0LqMaw6jiV2EPngMjHBs7DP3IsA_3te0HjzPaCyFJFQ==/) by Stephane Maarek
+- Working on: [Pizza House](https://github.com/mrkelder/pizza-house). A pet project to improve my AWS skills and learn CI/CD
