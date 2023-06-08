@@ -24,6 +24,7 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
   <img src="/images/mongodb.png" width="48" title="MongoDB" alt="MongoDB" />
   <img src="/images/socket.png" width="48" title="Socket.io" alt="Socket.io" />
   <img src="/images/linux.png" width="48" title="Linux" alt="Linux" />
+  <img src="/images/webpack.png" width="48" title="Webpack" alt="Webpack" />
 </span>
 
 <!--
