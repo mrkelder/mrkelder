@@ -27,11 +27,3 @@ A **Front End Developer** from Ukraine 🇺🇦 with the comprehensive experienc
   <img src="/images/webpack.png" width="48" title="Webpack" alt="Webpack" />
   <img src="/images/java.png" width="48" title="Java" alt="Java" />
 </span>
-
-## 🔴 What I'm doing right now
-
-<!-- - Reading: [Clean Code](https://a.co/d/7tClpTt) by Robert Martin -->
-
-- **Looking for a software developer position in Ontario, Canada**
-- Learning/Refining: [AWS Course](https://www.udemy.com/share/106WtA3@Skmkv2qqQB7Td08UHfEnwCH0LqMaw6jiV2EPngMjHBs7DP3IsA_3te0HjzPaCyFJFQ==/) by Stephane Maarek
-- Working on: [Pizza House](https://github.com/mrkelder/pizza-house). A pet project to improve my AWS skills and learn CI/CD
